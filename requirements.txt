@@ -1,0 +1,6 @@
+# Directorio DG4 - dependencias del mini-servicio de WhatsApp (licencia libre: MIT/Apache/BSD)
+fastapi>=0.115
+uvicorn>=0.32
+requests>=2.31
+python-dotenv>=1.0
+rapidfuzz>=3.10

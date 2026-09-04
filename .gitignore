@@ -1,0 +1,4 @@
+# Nunca compartas ni subas este archivo a ningún lado - tiene tu token de WhatsApp
+.env
+__pycache__/
+*.pyc
